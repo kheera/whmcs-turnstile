@@ -1,3 +1,8 @@
+DOWNLOAD THE FOLLOWING FILE AND SERVER IT UP IN THE HEAD OF ALL PAGES ON YOUR WEBSITE: https://challenges.cloudflare.com/turnstile/v0/api.js
+
+
+
+
 # WHMCS Turnstile Captcha
 Enables Cloudflare's [Turnstile](https://www.cloudflare.com/products/turnstile/) Captcha service in abandonware WHMCS. *This is currently a proof-of-concept, please report issues.*
 
