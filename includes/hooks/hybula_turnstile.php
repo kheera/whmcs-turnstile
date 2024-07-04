@@ -79,6 +79,5 @@ add_hook('ClientAreaFooterOutput', 1, function ($vars) {
             form.insertBefore(turnstileDiv, document.querySelector(\'input[type=submit],#login,div.text-center > button[type=submit],#openTicketSubmit\'));
         }
         </script>
-        <script src="https://challenges.cloudflare.com/turnstile/v0/api.js" async defer></script>';
     }
 });
